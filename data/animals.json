@@ -126,6 +126,42 @@
         "hungry"
       ],
       "id": "12"
+    },
+    {
+      "name": "Skylar",
+      "species": "Westie",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "loving"
+      ],
+      "id": "13"
+    },
+    {
+      "name": "Skylar",
+      "species": "Westie",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "loving"
+      ],
+      "id": "14"
+    },
+    {
+      "name": "Coco",
+      "species": "Cat",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "loving"
+      ],
+      "id": "15"
+    },
+    {
+      "name": "Bender",
+      "species": "Robot",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "zany"
+      ],
+      "id": "16"
     }
   ]
 }
